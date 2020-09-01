@@ -5,6 +5,7 @@ let mapleader =" "
 nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
 nmap <Leader>wq :wq<CR>
+nmap <Leader>qq :q!<CR>
 
 syntax enable
 set mouse=a
