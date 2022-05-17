@@ -1,0 +1,12 @@
+{
+	"coc.preferences.formatOnSaveFiletypes": [
+		"html",
+		"css",
+		"markdown",
+		"json",
+		"javascript",
+		"typescript",
+		"svelte",
+		"vue"
+	],
+}
